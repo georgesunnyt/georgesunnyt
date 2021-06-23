@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @georgesunnyt
 - 👀 I’m interested in creating beautiful user interfaces using React
 - 🌱 I’m currently learning advanced animations using barebones css
-- 💞️ I’m looking to collaborate on bukding advanced front end for the web
+- 💞️ I’m looking to collaborate on building advanced front end for the web
 - 📫 How to reach me https://www.linkedin.com/in/georgesunnyt/
 
 <!---
