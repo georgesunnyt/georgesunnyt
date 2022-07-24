@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georgesunnyt
 - 👀 I’m interested in creating beautiful user interfaces using React
-- 🌱 I’m currently learning advanced animations using css from scracth without any third party libraries.
+- 🌱 I’m currently learning advanced animations using css from scratch without any third party libraries.
 - 💞️ I’m looking to collaborate on building advanced front end for the web
 - 📫 How to reach me https://www.linkedin.com/in/georgesunnyt/
 
